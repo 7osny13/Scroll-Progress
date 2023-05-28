@@ -1,2 +1,2 @@
 # Scroller
-measure scroll in page
+measure scroll and make progress depend on scroll height
